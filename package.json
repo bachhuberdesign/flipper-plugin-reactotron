@@ -43,7 +43,7 @@
     "eslint-plugin-standard": "4.0.1",
     "semantic-release": "16.0.4",
     "prettier": "1.19.1",
-    "typescript": "3.6.4"
+    "typescript": "3.9.2"
   },
   "peerDependencies": {
     "electron": "^6.0.12"
